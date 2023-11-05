@@ -90,7 +90,10 @@ En nuestros conjuntos de datos, se aplicaron la siguiente estrategía:
 
 Esto nos permitió reducir las dimensiones del conjunto de datos con la supresión de las columnas "Codi_Districte" y "Lloguer_mitja_Lloguer mitjà mensual (Euros/mes)".
 
-## 3. Resultados:
-
-
 ## 4. Conclusiones:
+
+Agradezco sinceramente por tomar el tiempo de revisar mi prueba técnica. En este notebook, hemos trabajado con dos conjuntos de datos proporcionados por OpenData Barcelona: uno que contiene información sobre los precios de alquiler por barrio y otro que detalla los niveles de exposición al sonido en la ciudad. Hemos unido estos conjuntos de datos para realizar un análisis cruzado con el objetivo de profundizar en la relación entre los precios de alquiler y la exposición al sonido en Barcelona.
+
+Durante el desarrollo de este proyecto, llevamos a cabo un extenso preprocesamiento de las observaciones, incluyendo la eliminación de valores faltantes y la estandarización de las variables, para garantizar la calidad y la integridad de nuestros datos. El conjunto de datos resultante puede servir como una sólida base para futuros trabajos en el campo de la Ciencia de Datos.
+
+Este proyecto no solo proporciona una comprensión más profunda de los factores que afectan los precios de alquiler en Barcelona, sino que también representa una valiosa oportunidad de prueba técnica en el contexto del Hackathon de Data Science de Jump2Digital. Espero que los hallazgos y las técnicas empleadas aquí sean de utilidad y puedan contribuir a futuras investigaciones y desarrollos en este emocionante campo.
